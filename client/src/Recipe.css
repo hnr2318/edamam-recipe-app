@@ -1,0 +1,41 @@
+
+.recipe{
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px rgb(71, 71, 71);
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background: ivory;
+    align-items: center;
+    width: 30%;
+}
+
+.image{
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    margin-bottom: 30px;
+}
+
+h1 {
+    text-align: center;
+    margin: 10px;
+}
+
+.bottomSpace {
+    margin-bottom:20px;
+}
+
+.sideSpace {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.ctrText {
+    text-align: center;
+}
+
+p {
+    margin:10px;
+}
